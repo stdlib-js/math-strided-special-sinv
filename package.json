@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/math-strided-special-sinv",
+  "version": "0.0.0",
+  "description": "Compute the multiplicative inverse for each element in a single-precision floating-point strided array.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-strided-special-sinv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "inv",
+    "multiplicative",
+    "inverse",
+    "reciprocal",
+    "number",
+    "single-precision",
+    "float",
+    "flt",
+    "float32",
+    "float32array",
+    "vector",
+    "array",
+    "strided",
+    "ndarray",
+    "element-wise"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
